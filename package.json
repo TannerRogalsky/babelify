@@ -12,7 +12,7 @@
     "url": "https://github.com/babel/babelify/issues"
   },
   "dependencies": {
-    "babel-core": "TannerRogalsky/babel",
+    "babel-core-drl": "5.1.13",
     "through": "2.3.4",
     "lodash": "^3.0.0"
   }
